@@ -1,0 +1,27 @@
+[
+	{
+		"file": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod\\Platforma.cpp",
+		"command": "\"E:\\Visual Studio\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @E:\\Unreal\\Projekty\\Tor_przeszkod\\.vscode\\compileCommands_Default\\Tor_przeszkod.205.rsp",
+		"directory": "E:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod\\Platforma.h",
+		"command": "\"E:\\Visual Studio\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @E:\\Unreal\\Projekty\\Tor_przeszkod\\.vscode\\compileCommands_Default\\Tor_przeszkod.205.rsp",
+		"directory": "E:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod\\Tor_przeszkod.Build.cs",
+		"command": "\"E:\\Visual Studio\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @E:\\Unreal\\Projekty\\Tor_przeszkod\\.vscode\\compileCommands_Default\\Tor_przeszkod.205.rsp",
+		"directory": "E:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod\\Tor_przeszkod.cpp",
+		"command": "\"E:\\Visual Studio\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @E:\\Unreal\\Projekty\\Tor_przeszkod\\.vscode\\compileCommands_Default\\Tor_przeszkod.205.rsp",
+		"directory": "E:\\Unreal\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod\\Tor_przeszkod.h",
+		"command": "\"E:\\Visual Studio\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @E:\\Unreal\\Projekty\\Tor_przeszkod\\.vscode\\compileCommands_Default\\Tor_przeszkod.205.rsp",
+		"directory": "E:\\Unreal\\UE_5.0\\Engine\\Source"
+	}
+]

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Tor_przeszkod-4293.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal\Projekty\Tor_przeszkod\Intermediate\Build\Win64\Tor_przeszkodEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal\Projekty\Tor_przeszkod\Intermediate\Build\Win64\UnrealEditor\Development\Tor_przeszkod\Platforma.cpp.obj"
+"E:\Unreal\Projekty\Tor_przeszkod\Intermediate\Build\Win64\UnrealEditor\Development\Tor_przeszkod\Tor_przeszkod.cpp.obj"
+"E:\Unreal\Projekty\Tor_przeszkod\Intermediate\Build\Win64\UnrealEditor\Development\Tor_przeszkod\Platforma.gen.cpp.obj"
+"E:\Unreal\Projekty\Tor_przeszkod\Intermediate\Build\Win64\UnrealEditor\Development\Tor_przeszkod\Tor_przeszkod.init.gen.cpp.obj"
+"E:\Unreal\Projekty\Tor_przeszkod\Intermediate\Build\Win64\UnrealEditor\Development\Tor_przeszkod\Default.rc2.res"
+/OUT:"E:\Unreal\Projekty\Tor_przeszkod\Intermediate\Build\Win64\UnrealEditor\Development\Tor_przeszkod\UnrealEditor-Tor_przeszkod-4293.lib"

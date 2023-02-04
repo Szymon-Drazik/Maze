@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Tor_przeszkodEditor Editor Win64 Development (Tor_przeszkod)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Unreal\\Projekty\\Tor_przeszkod\\.vscode\\compileCommands_Tor_przeszkod.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Unreal\\Projekty\\Tor_przeszkod\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

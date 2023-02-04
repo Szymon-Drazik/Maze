@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\unreal\\projekty\\tor_przeszkod\\intermediate\\build\\win64\\unrealeditor\\inc\\tor_przeszkod\\tor_przeszkod.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\projekty\\tor_przeszkod\\intermediate\\build\\win64\\tor_przeszkodeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal\\projekty\\tor_przeszkod\\intermediate\\build\\win64\\unrealeditor\\development\\tor_przeszkod\\definitions.tor_przeszkod.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

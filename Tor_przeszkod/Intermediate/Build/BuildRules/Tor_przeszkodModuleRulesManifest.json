@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod\\Tor_przeszkod.Build.cs",
+		"E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod.Target.cs",
+		"E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkodEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

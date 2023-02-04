@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tor_przeszkod",
+			"Path": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkod.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tor_przeszkodEditor",
+			"Path": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Source\\Tor_przeszkodEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

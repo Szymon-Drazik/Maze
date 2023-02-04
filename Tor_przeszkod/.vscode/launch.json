@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch Tor_przeszkod (Debug)",
+			"request": "launch",
+			"program": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "Tor_przeszkod Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Tor_przeszkod (DebugGame)",
+			"request": "launch",
+			"program": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "Tor_przeszkod Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Tor_przeszkod (Development)",
+			"request": "launch",
+			"program": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "Tor_przeszkod Win64 Development Build",
+			"args": [
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Tor_przeszkod (Test)",
+			"request": "launch",
+			"program": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "Tor_przeszkod Win64 Test Build",
+			"args": [
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Tor_przeszkod (Shipping)",
+			"request": "launch",
+			"program": "E:\\Unreal\\Projekty\\Tor_przeszkod\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "Tor_przeszkod Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Tor_przeszkodEditor (Debug)",
+			"request": "launch",
+			"program": "E:\\Unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "Tor_przeszkodEditor Win64 Debug Build",
+			"args": [
+				"E:\\Unreal\\Projekty\\Tor_przeszkod\\Tor_przeszkod.uproject"
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Tor_przeszkodEditor (DebugGame)",
+			"request": "launch",
+			"program": "E:\\Unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "Tor_przeszkodEditor Win64 DebugGame Build",
+			"args": [
+				"E:\\Unreal\\Projekty\\Tor_przeszkod\\Tor_przeszkod.uproject"
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Launch Tor_przeszkodEditor (Development)",
+			"request": "launch",
+			"program": "E:\\Unreal\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "Tor_przeszkodEditor Win64 Development Build",
+			"args": [
+				"E:\\Unreal\\Projekty\\Tor_przeszkod\\Tor_przeszkod.uproject"
+			],
+			"cwd": "E:\\Unreal\\UE_5.0",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Unreal\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\build\++UE5\Sync": "E:\\Unreal\\UE_5.0"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "E:\\Unreal\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=E:\\Unreal\\Projekty\\Tor_przeszkod\\Tor_przeszkod.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "E:\\Unreal\\UE_5.0"
+		}
+	]
+}
